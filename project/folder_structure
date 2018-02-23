@@ -1,0 +1,6 @@
+#目录结构
+project
+   |___learn 学习
+  	|_____C_Languge C语言学习目录
+  	|_____sh_learn  bash学习目录
+  	|_____vi_learn  vi学习目录(vimtutor)
