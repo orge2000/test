@@ -12,4 +12,3 @@ do
 		echo $PATH
 	fi
 done
-
